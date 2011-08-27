@@ -1,7 +1,7 @@
 Summary:	IBM Advanced System Management X input driver
 Name:		xorg-driver-input-ibmasm
 Version:	2.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		X11/Applications
 URL:		http://sourceforge.net/projects/ibmasm/
